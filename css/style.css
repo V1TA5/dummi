@@ -131,6 +131,7 @@ Buttons
 	margin-bottom: 10px;
 	position: relative;
 	border: solid 1px #ccc;
+	padding-top: 7px;
 	/*border-radius: 2px;*/
 }
 .drop-down:after{
@@ -159,6 +160,7 @@ Buttons
 	z-index: 2;
 	position: relative;
 	cursor: pointer;
+	padding-top: 8px;
 }
 
 
